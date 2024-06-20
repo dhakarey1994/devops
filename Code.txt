@@ -1,1 +1,3 @@
 Hello World
+This my First project for devops CI/CD piplines. 
+I can make easly pilplens for azure 
